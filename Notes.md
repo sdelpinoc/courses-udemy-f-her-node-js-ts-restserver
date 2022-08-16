@@ -42,7 +42,7 @@
     - `npm i --save-dev @types/express`
 - [More info](https://stackoverflow.com/a/51320328/19344890)
 
-## Compile / Run
+## Compile / Runñ
 
 - To compile the .ts files(these compiled files will remain in the dist directory), we use:
     - `tsc`
@@ -57,5 +57,4 @@
 
 ## Date base:
 
--
-- [tableplus](https://tableplus.com/linux)
+- Install mysql and phpmyadmin
